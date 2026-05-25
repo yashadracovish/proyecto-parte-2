@@ -97,11 +97,11 @@ El programa carga datos de prueba automaticamente (4 areas y 4 empleados) para f
 
 ## Integrantes del grupo
 
-| Nombre completo | Codigo UIS |
-|-----------------|------------|
-|                 |            |
-|                 |            |
-|                 |            |
+| Nombre completo             | Codigo UIS |
+|-----------------            |------------|
+| JUAN JOSE JAUREGUI MENDOSA  | 2250920    |
+| SERGIO ESTEBAN CONTRERAS    | 2250950    |
+|                             |            |
 
 ---
 
